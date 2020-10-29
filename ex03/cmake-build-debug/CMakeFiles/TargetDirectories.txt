@@ -1,0 +1,3 @@
+/Users/zzanguna/Development/C_laguage/basic_c_laguage/ex03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zzanguna/Development/C_laguage/basic_c_laguage/ex03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzanguna/Development/C_laguage/basic_c_laguage/ex03/cmake-build-debug/CMakeFiles/ex03.dir

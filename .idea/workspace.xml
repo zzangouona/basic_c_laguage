@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:zzanguna" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1b08525-e452-45c9-9c96-c8bd1b80be4d" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/.idea/ex03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/ex03" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ex03" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="1jYiHq4AxtSIQPxG6lerIXV7ijR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b08525-e452-45c9-9c96-c8bd1b80be4d" name="Default Changelist" comment="" />
+      <created>1603987340491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603987340491</updated>
+      <workItem from="1603987341584" duration="1292000" />
+      <workItem from="1603988761797" duration="144000" />
+      <workItem from="1603988907966" duration="176000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1603987728382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603987728382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;commit&quot;&#10;&#10;This reverts commit c3dfbadc">
+      <created>1603987908848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603987908848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/ex03" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="zzanguna" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="Revert &quot;commit&quot;&#10;&#10;This reverts commit c3dfbadc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;commit&quot;&#10;&#10;This reverts commit c3dfbadc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="144" key="CommitChangelistDialog2" timestamp="1603987908778">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="445" y="144" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1603987908778" />
+    <state x="702" y="497" key="Github.CreateGistDialog" timestamp="1603988749934">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="702" y="497" key="Github.CreateGistDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1603988749934" />
+    <state x="397" y="210" key="SettingsEditor" timestamp="1603988921985">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1603988921985" />
+    <state x="496" y="311" width="1249" height="520" key="Vcs.Push.Dialog.v2" timestamp="1603988696369">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="311" width="1249" height="520" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1603988696369" />
+    <state x="693" y="467" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603988804660">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="693" y="467" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1603988804660" />
+    <state x="595" y="422" key="git4idea.ui.GitTagDialog" timestamp="1603988725821">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="595" y="422" key="git4idea.ui.GitTagDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1603988725821" />
+  </component>
+</project>
