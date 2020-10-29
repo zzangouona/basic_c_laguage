@@ -20,7 +20,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:zzanguna" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ex03" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -33,15 +33,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b08525-e452-45c9-9c96-c8bd1b80be4d" name="Default Changelist" comment="commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/.idea/ex03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="a1b08525-e452-45c9-9c96-c8bd1b80be4d" name="Default Changelist" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +51,7 @@
         <entry key="$PROJECT_DIR$/ex03" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ex03" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="1jYiHq4AxtSIQPxG6lerIXV7ijR" />
@@ -76,6 +68,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,6 +86,7 @@
       <workItem from="1603987341584" duration="1292000" />
       <workItem from="1603988761797" duration="144000" />
       <workItem from="1603988907966" duration="176000" />
+      <workItem from="1603998729945" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1603987728382</created>
@@ -144,7 +144,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="zzanguna" />
+                        <option value="ex03" />
                       </list>
                     </value>
                   </entry>

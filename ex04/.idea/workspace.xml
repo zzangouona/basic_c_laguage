@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ex04" targetName="ex04" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f73c87ab-c4b8-4ab5-9262-750da3b02a6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex03/ex03_04_radix.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex03/run/ex03_01_variable.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/ex03_01_variable.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jZ5TwT5D7BhTVktSB0OK5ggTQk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ex04" TARGET_NAME="ex04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ex04" RUN_TARGET_NAME="ex04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f73c87ab-c4b8-4ab5-9262-750da3b02a6d" name="Default Changelist" comment="" />
+      <created>1603998784765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603998784765</updated>
+      <workItem from="1603998785872" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
