@@ -29,22 +29,35 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f73c87ab-c4b8-4ab5-9262-750da3b02a6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ex03/ex03_04_radix.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ex03/run/ex03_01_variable.c" afterDir="false" />
+    <list default="true" id="f73c87ab-c4b8-4ab5-9262-750da3b02a6d" name="Default Changelist" comment="ex04 enum 커밋">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/C.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/CMakeFiles/ex03.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../ex03/cmake-build-debug/ex03.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex03/ex03_01_variable.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ex04.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ex04.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/ex04_01_enum.c" beforeDir="false" afterPath="$PROJECT_DIR$/run/ex04_01_enum.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +81,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/run" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/run" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -78,11 +109,6 @@
     <configuration name="ex04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ex04" TARGET_NAME="ex04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ex04" RUN_TARGET_NAME="ex04">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -95,7 +121,17 @@
       <option name="presentableId" value="Default" />
       <updated>1603998784765</updated>
       <workItem from="1603998785872" duration="19000" />
+      <workItem from="1604048040267" duration="51000" />
+      <workItem from="1604286000956" duration="3007000" />
     </task>
+    <task id="LOCAL-00001" summary="ex04 enum 커밋">
+      <created>1604329925469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604329925469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +147,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ex04 enum 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex04 enum 커밋" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="371" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604048062499">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="784" y="371" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1604048062499" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1604331470767">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1604331470767" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1604331470766">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1604331470766" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1604331470766">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1604331470766" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1604331470766">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1604331470766" />
   </component>
 </project>
