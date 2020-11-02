@@ -5,6 +5,10 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!2\n");
+    int pay = 6500;
+    int bonus = 300;
+    int salary;
+    salary = pay + bonus;
+    printf("급여=%d원\n",salary);
     return 0;
 }

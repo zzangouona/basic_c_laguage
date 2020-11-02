@@ -143,32 +143,32 @@ ex04/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/build
 .PHONY : ex04/fast
 
-main.o: main.cpp.o
+run/ex04_01_enum.o: run/ex04_01_enum.c.o
 
-.PHONY : main.o
+.PHONY : run/ex04_01_enum.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/main.cpp.o
-.PHONY : main.cpp.o
+run/ex04_01_enum.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/run/ex04_01_enum.c.o
+.PHONY : run/ex04_01_enum.c.o
 
-main.i: main.cpp.i
+run/ex04_01_enum.i: run/ex04_01_enum.c.i
 
-.PHONY : main.i
+.PHONY : run/ex04_01_enum.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/main.cpp.i
-.PHONY : main.cpp.i
+run/ex04_01_enum.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/run/ex04_01_enum.c.i
+.PHONY : run/ex04_01_enum.c.i
 
-main.s: main.cpp.s
+run/ex04_01_enum.s: run/ex04_01_enum.c.s
 
-.PHONY : main.s
+.PHONY : run/ex04_01_enum.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/main.cpp.s
-.PHONY : main.cpp.s
+run/ex04_01_enum.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex04.dir/build.make CMakeFiles/ex04.dir/run/ex04_01_enum.c.s
+.PHONY : run/ex04_01_enum.c.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ex04"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... run/ex04_01_enum.o"
+	@echo "... run/ex04_01_enum.i"
+	@echo "... run/ex04_01_enum.s"
 .PHONY : help
 
 

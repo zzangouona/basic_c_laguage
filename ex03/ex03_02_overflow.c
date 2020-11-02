@@ -7,6 +7,7 @@ int main(){
     short a = 20000;
     short b = 30000;
     //short c = a+b;
+
     int c = a+b;
     printf("c = %d\n",c);
     return 0;

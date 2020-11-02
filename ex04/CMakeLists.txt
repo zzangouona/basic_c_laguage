@@ -3,4 +3,4 @@ project(ex04)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ex04 main.cpp)
+add_executable(ex04 run/ex04_01_enum.c)
